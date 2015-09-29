@@ -1,6 +1,7 @@
 package lab1;
 
 public class TwoDimensionMassiva {
+	//111
 	
 	public static void main(String args[]){
 		int k;
